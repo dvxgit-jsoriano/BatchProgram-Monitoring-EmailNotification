@@ -42,3 +42,5 @@
 ## Developer
 
 - [Jerome Soriano](https://github.com/dvxgit-jsoriano)
+
+*Buy me a coffee*
