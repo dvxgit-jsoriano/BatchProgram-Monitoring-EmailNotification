@@ -22,3 +22,5 @@ ping %ipAddress% -n 1 | findstr /C:"Destination host unreachable" >nul && (
     echo The server is reachable.
   )
 )
+
+exit
