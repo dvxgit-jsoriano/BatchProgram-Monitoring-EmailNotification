@@ -41,6 +41,6 @@
 
 ## Developer
 
-- [Jerome Soriano](https://github.com/dvxgit-jsoriano)
+- Checkout my github [Jerome Soriano](https://github.com/dvxgit-jsoriano)
 
 *Buy me a coffee*
